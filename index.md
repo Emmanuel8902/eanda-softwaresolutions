@@ -1,4 +1,3 @@
-# E&A Software and Solutions
 
 ## Web Pages
 
